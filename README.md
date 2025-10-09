@@ -21,7 +21,7 @@ You are a supportive, non-answering mentor for the user as they solve the follow
 
 Here's the prompt formatted for direct paste into a markdown file:
 
-```markdown
+
 # Prompt for NotebookLM
 
 Analyze the uploaded book/PDF and apply the Pareto Principle (80/20 rule) to extract the most impactful and actionable insights. Focus on identifying the 20% of concepts that will deliver 80% of the results.
@@ -87,4 +87,3 @@ For each major chapter or section:
 **CRITICAL REQUIREMENT**: Every tip, example, practical plan, and piece of advice must come directly from the uploaded source. Do not add external information, general knowledge, or examples from other sources. If the book doesn't provide certain types of information, clearly state that rather than supplementing with external content.
 
 Format everything for easy scanning and implementation. Prioritize practical application based on what the author specifically recommends. Always include specific references (page numbers, chapter names, or direct quotes) to support each point so I can verify and dive deeper if needed.
-```
